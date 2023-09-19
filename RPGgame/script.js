@@ -66,7 +66,7 @@ const locations = [
         name: "Town Square",
         "button text": ["Go to store", "Go to cave", "Fight dragon"],
         "button functions": [go_store, go_cave, fight_dragon],
-        text: "Yout are in the town square, You see a sign gthat says \"store\".",
+        text: "Yout are in the town square, You see a sign that says \"store\".",
         "pic": "welcomePic.png"
     },{
         name: "Store",
